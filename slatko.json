@@ -1,0 +1,38 @@
+[
+       {
+        "name": "Karamele lešnik",
+        "brand": "Pionir",
+        "quantity": 5
+       },
+       {
+        "name": "Bronhi",
+        "brand": "Kraš",
+        "quantity": 3
+       },
+       {
+        "name": "505",
+        "brand": "Kraš",
+        "quantity": 4
+       },
+       {
+        "name": "Negro",
+        "brand": "Pionir",
+        "quantity": 0
+       },
+	   {
+        "name": "Negro karamele",
+        "brand": "Pionir",
+        "quantity": 4
+       },
+	   {
+        "name": "Lješnici u čokoloadi",
+        "brand": "Kraš",
+        "quantity": 0
+       },
+	   {
+        "name": "Čokoladne karamele",
+        "brand": "Swiss Lion",
+        "quantity": 5
+       }
+
+     ]
